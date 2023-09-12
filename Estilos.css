@@ -3,9 +3,9 @@
     margin-right: 35%;
     margin-top: 3%;
     padding-top: 1%;
-    background-color: blue;
+    background-color: burlywood;
     width: 600px;
-    height: 800px;
+    height: 820px;
 }
 
 .pantalla{
@@ -29,104 +29,128 @@
 
 .porc {
     grid-area: porc;
+    margin: 1%;
 }
 
 .CE {
     grid-area: CE;
+    margin: 1%;
 }
 
 .C {
     grid-area: C;
+    margin: 1%;
 }
 
 .borrar {
     grid-area: borrar;
+    margin: 1%;
 }
 
 
 .invertir {
     grid-area: invertir;
+    margin: 1%;
 }
 
 .X2 {
     grid-area: X2;
+    margin: 1%;
 }
 
 .raiz {
     grid-area: raiz;
+    margin: 1%;
 }
 
 .divid{
     grid-area: divid;
+    margin: 1%;
 }
 
 .siete {
     grid-area: siete;
+    margin: 1%;
 }
 
 .ocho {
     grid-area: ocho;
+    margin: 1%;
 }
 
 .nueve {
     grid-area: nueve;
+    margin: 1%;
 }
 
 .X {
     grid-area: X;
+    margin: 1%;
 }
 
 .cuatro {
     grid-area: cuatro;
+    margin: 1%;
 }
 
 .cinco {
     grid-area: cinco;
+    margin: 1%;
 }
 
 .seis {
     grid-area: seis;
+    margin: 1%;
 }
 
 .menos {
     grid-area: menos;
+    margin: 1%;
 }
 
 .uno {
     grid-area: uno;
+    margin: 1%;
 }
 
 .dos {
     grid-area: dos;
+    margin: 1%;
 }
 
 .tres {
     grid-area: tres;
+    margin: 1%;
 }
 
 .mas {
     grid-area: mas;
+    margin: 1%;
 }
 
 .cambia {
     grid-area: cambia;
+    margin: 1%;
 }
 
 .cero {
     grid-area: cero;
+    margin: 1%;
 }
 
 .coma {
     grid-area: coma;
+    margin: 1%;
 }
 
 .igual {
     grid-area: igual;
+    margin: 1%;
 }
 
 
 
 body{
-    background-color: gray;
+    background-color: black;
 }
 
