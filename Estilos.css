@@ -2,20 +2,131 @@
     margin-left: 35%;
     margin-right: 35%;
     margin-top: 3%;
+    padding-top: 1%;
     background-color: blue;
     width: 600px;
-    height: 600px;
+    height: 800px;
 }
 
 .pantalla{
     margin-bottom: 4%;
     margin-left: 4%;
     margin-right: 4%;
-    margin-top: 4%;
     height: 100px;
     background-color: white;
 }
 
+.botonera {
+    padding: 1%;
+    display: grid;
+    grid-template-areas: "porc CE C borrar"
+                         "invertir X2 raiz divid"
+                         "siete ocho nueve X"
+                         "cuatro cinco seis menos"
+                         "uno dos tres mas"
+                         "cambia cero coma igual";
+  }
+
+.porc {
+    grid-area: porc;
+}
+
+.CE {
+    grid-area: CE;
+}
+
+.C {
+    grid-area: C;
+}
+
+.borrar {
+    grid-area: borrar;
+}
+
+
+.invertir {
+    grid-area: invertir;
+}
+
+.X2 {
+    grid-area: X2;
+}
+
+.raiz {
+    grid-area: raiz;
+}
+
+.divid{
+    grid-area: divid;
+}
+
+.siete {
+    grid-area: siete;
+}
+
+.ocho {
+    grid-area: ocho;
+}
+
+.nueve {
+    grid-area: nueve;
+}
+
+.X {
+    grid-area: X;
+}
+
+.cuatro {
+    grid-area: cuatro;
+}
+
+.cinco {
+    grid-area: cinco;
+}
+
+.seis {
+    grid-area: seis;
+}
+
+.menos {
+    grid-area: menos;
+}
+
+.uno {
+    grid-area: uno;
+}
+
+.dos {
+    grid-area: dos;
+}
+
+.tres {
+    grid-area: tres;
+}
+
+.mas {
+    grid-area: mas;
+}
+
+.cambia {
+    grid-area: cambia;
+}
+
+.cero {
+    grid-area: cero;
+}
+
+.coma {
+    grid-area: coma;
+}
+
+.igual {
+    grid-area: igual;
+}
+
+
+
 body{
     background-color: gray;
 }
+
